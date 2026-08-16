@@ -8,7 +8,7 @@ My main focus is **Software Engineering and Backend Development**, with experien
 
 Throughout my academic journey, I have worked on collaborative software projects where I've been involved in different stages of development, from **requirements and architectural design to implementation, integration and deployment**. I also have experience in **Machine Learning and Data Analysis** through a university research project focused on automated livestock counting using drone imagery and Deep Learning.
 
-I'm currently looking for a **professional internship in Software Development, Backend Engineering or Data/AI**, where I can contribute my technical knowledge, analytical thinking and willingness to learn while gaining experience in real-world software teams.
+
 
 ---
 
@@ -37,12 +37,11 @@ I'm currently looking for a **professional internship in Software Development, B
 ### Databases & Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
 
 ### Architecture & Engineering
 
 ![Microservices](https://img.shields.io/badge/Microservices-2F80ED?style=for-the-badge)
-![Event Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-6C63FF?style=for-the-badge)
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-4B5563?style=for-the-badge)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-2563EB?style=for-the-badge)
 
